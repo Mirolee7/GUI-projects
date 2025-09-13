@@ -1,1 +1,7 @@
 venv
+file.sh
+calculator/addition/__pycache__/
+calculator/division/__pycache__/
+calculator/evaluation/
+calculator/multiplication/__pycache__/
+calculator/subtraction/__pycache__/
