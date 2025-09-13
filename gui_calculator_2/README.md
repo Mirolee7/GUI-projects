@@ -1,5 +1,12 @@
 # GUI Calculator
 
+## Feature
+- Basic Calculation 
+- Crash Proof
+- Double screens
+- Calculation Screen and Error display screen
+
+
 ### Packege used:
 `PyQt5`
 
@@ -48,9 +55,3 @@ Run program
 $ python gui_calculator_prototype.py 
 
 ```
-
-## Feature
-[x] Basic Calculation 
-[x] Crash Proof
-[x] Double screens
-[x] Calculation Screen and Error display screen
